@@ -204,6 +204,39 @@ background-attachment: fixed;
 height: 150px !important;
 
 }
+.course_banner
+{
+
+height: 150px !important;
+
+}
+
+.banner-course {
+
+width: 100%;
+height: 100%;
+background-color: rgba(54, 60, 66, 0.97);
+
+}
+.banner-course h1 {
+
+font-family: "robotoregular";
+font-weight: bold;
+font-size: 35px;
+color: #fff;
+margin-top: 0px;
+margin-bottom: 0px;
+padding-top: 40px;
+text-align: left;
+margin-left: 60px;
+
+}
+.banner-course span {
+
+font-size: 42px ;
+color: #64bc62;
+
+}
 .content-search {
 
 width: 100%;
@@ -345,6 +378,56 @@ padding-bottom: 40px;
 padding-left: 55px;
 box-sizing:border-box;
 border-left:1px #f0f0f0 solid;
+
+
+}
+/*  PAGE COURSE */
+.content-course-pag
+{
+
+width: 100%;
+height: auto;
+background-color: #f5f5f5;
+box-sizing:border-box;
+border-left:1px #f0f0f0 solid;
+
+
+}
+.content-course-pag-header {
+
+width: 100%;
+height: 60px;
+box-sizing:border-box;
+background-color: #f9f9f9;
+border-bottom: 1px #f0f0f0 solid;
+
+}
+.course-pag {
+
+width: 80%;
+height: auto;
+
+}
+.course-pag-tit-course {
+
+width: 50%;
+height: 40px;
+float: left;
+box-sizing:border-box;
+background-color: #333;
+
+}
+.couser-pag-autor-course {
+
+width: 50%;
+height: 40px;
+float: left;
+box-sizing:border-box;
+background-color: #333;
+
+}
+.course-pag-tit-autor {
+
 
 
 }
